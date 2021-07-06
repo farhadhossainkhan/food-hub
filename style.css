@@ -3,5 +3,14 @@ body{
     font-size: 20px;
 }
 h1{
-    font-size: 55px;
+    font-size: 45px;
+}
+.introduction{
+    display: flex;
+}
+.half-width{
+width: 50%;
+}
+.single-color{
+    color: coral;
 }
