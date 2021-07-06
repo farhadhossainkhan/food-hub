@@ -35,7 +35,7 @@ padding-right: 3%;
 }
 .recipie{
     display: flex;
-    margin-bottom: 10$;
+    margin-top: 10%;
 }
 .one-third{
     width: 25%;
@@ -51,6 +51,7 @@ padding-right: 3%;
 .last-section{
     display: flex;
     width: 93%;
+    margin-top: 10%;
     margin-left: 3%;
     margin-right: 3%;
     padding-left: 3%;
@@ -59,4 +60,5 @@ padding-right: 3%;
 }
 .social-site{
     width: 31%;
+    text-align: center;
 }
