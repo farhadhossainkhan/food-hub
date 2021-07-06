@@ -28,6 +28,10 @@ padding-right: 3%;
     background-image: linear-gradient(coral, orange);
     font-weight: 700;
 }
+#image{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-position: center;
+}
 .recipie{
     display: flex;
 }
