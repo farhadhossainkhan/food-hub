@@ -1,3 +1,7 @@
-.slogan{
-    font-size: large;
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+h1{
+    font-size: 55px;
 }
