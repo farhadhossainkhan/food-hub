@@ -28,3 +28,11 @@ margin-top: 3%;
     background-image: linear-gradient(coral, orange);
     font-weight: 700;
 }
+.recipie{
+    display: flex;
+}
+.one-third{
+    padding: 3%;
+    "width: 100%
+    display: block;
+}
