@@ -7,12 +7,12 @@ h1{
 }
 .introduction{
     display: flex;
+    margin-bottom: 20%;
 }
 .half-width{
 width: 40%;
 padding-left: 7%;
 padding-right: 3%;
-margin-top: 3%;
 }
 .make-dwon{
     padding-top: 30%;
@@ -32,7 +32,12 @@ margin-top: 3%;
     display: flex;
 }
 .one-third{
-    padding: 3%;
-    "width: 100%
-    display: block;
+    width: 30%;
+    margin: 2%;
+    padding: 1%;
+    box-shadow: 10px 10px 40px grey;
+    background-image: url(imgage/food/stackveg);
+}
+.one-third-img{
+    width: 100%;
 }
